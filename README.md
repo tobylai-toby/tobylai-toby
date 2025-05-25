@@ -62,7 +62,7 @@ I love [dao3.fun](https://dao3.fun), a platform for creating & playing maps!
 ## 📊 GitHub Stats
 
 ![Toby's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobylai-toby&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobylai-toby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobylai-toby&layout=compact&hide=java,html)
 
 ---
 
